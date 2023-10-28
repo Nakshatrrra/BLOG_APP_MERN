@@ -1,0 +1,3 @@
+npm run dev
+username : nakshatratrivedi44@gmail.com
+password : 123456
